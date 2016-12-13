@@ -1,0 +1,18 @@
+{
+  "name": "nickel-cli",
+  "version": "0.0.1",
+  "description": "Utility to setup the family of Express API Server, Static React frontend server, React Native mobile app in one command.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ElKornacio <ek@ek-mail.ru>",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "commander": "^2.9.0",
+    "cross-spawn": "^5.0.1",
+    "randomstring": "^1.1.5",
+    "rmdir": "^1.2.0"
+  }
+}
